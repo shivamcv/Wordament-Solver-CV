@@ -1,0 +1,35 @@
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Wordament Solver CV.exe.config
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Wordament Solver CV.exe
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Wordament Solver CV.pdb
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.csprojResolveAssemblyReference.cache
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\MainWindow.baml
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\MainWindow.g.cs
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\App.g.cs
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV_MarkupCompile.cache
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.g.resources
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament_Solver_CV.Properties.Resources.resources
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.csproj.GenerateResource.Cache
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.exe
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.pdb
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\x64\liblept168.dll
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\x64\libtesseract302.dll
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\x86\liblept168.dll
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\x86\libtesseract302.dll
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Tesseract.dll
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Tesseract.xml
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV_Content.g.cs
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV_MarkupCompile.lref
+c:\users\shivam\documents\visual studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\App.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\preview.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\preview.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\View\InitialisingScreen.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\View\InitialisingScreen.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\View\GameScreen.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\View\GameScreen.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Wordament Solver CV.exe.manifest
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Debug\Wordament Solver CV.application
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.exe.manifest
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Debug\Wordament Solver CV.application

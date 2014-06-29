@@ -1,0 +1,78 @@
+﻿<Page x:Class="Wordament_Solver_CV.View.GameScreen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:cv="clr-namespace:Wordament_Solver_CV.ViewModel"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="525"
+	Title="GameScreen">
+    <Page.Resources>
+        <Style x:Key="boardStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="34"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+
+        </Style>
+        <ObjectDataProvider x:Key="Vm" ObjectType="{x:Type cv:GameService}"/>
+       
+    </Page.Resources>
+    <Grid Height="325"  Margin="10" DataContext="{StaticResource Vm}">
+        <Grid HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,50,10,0" Height="240" Width="240">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="textBlock" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=0}" Style="{StaticResource boardStyle}" RenderTransformOrigin="0.5,0.5" >
+            </TextBlock>
+            <TextBlock x:Name="textBlock4" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=1}" Style="{StaticResource boardStyle}" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock8" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=2}" Style="{StaticResource boardStyle}" Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock12" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=3}" Style="{StaticResource boardStyle}"  Grid.Row="3" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock1" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=4}" Style="{StaticResource boardStyle}" Grid.Column="1" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock5" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=5}" Style="{StaticResource boardStyle}" Grid.Column="1" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock9" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=6}" Style="{StaticResource boardStyle}" Grid.Column="1" Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock13" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=7}" Style="{StaticResource boardStyle}" Grid.Column="1" Grid.Row="3" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+
+            <TextBlock x:Name="textBlock2" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=8}"  Style="{StaticResource boardStyle}"  Grid.Column="2" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock6" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=9}"  Style="{StaticResource boardStyle}"  Grid.Column="2" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock10" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=10}" Style="{StaticResource boardStyle}" Grid.Column="2" Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock14" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=11}" Style="{StaticResource boardStyle}" Grid.Column="2" Grid.Row="3" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+
+            <TextBlock x:Name="textBlock3" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=12}" Style="{StaticResource boardStyle}" Grid.Column="3" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock7" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=13}" Style="{StaticResource boardStyle}" Grid.Column="3" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock11" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=14}" Style="{StaticResource boardStyle}" Grid.Column="3" Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+            <TextBlock x:Name="textBlock15" Background="{Binding CurrentTheme}" Text="{Binding TileString, Converter={StaticResource TileStringConvertors}, ConverterParameter=15}" Style="{StaticResource boardStyle}" Grid.Column="3" Grid.Row="3" RenderTransformOrigin="0.5,0.5">
+            </TextBlock>
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding CurrentGameState}" Height="15.96" />
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" Text="{Binding Status}" FontSize="14"/>
+        <!--<RichTextBox VerticalAlignment="Top" Document="{Binding Meaning,Converter={StaticResource stringToDoc}}" Height="240" Width="240" HorizontalAlignment="Left" Margin="10,50,0,0"   />-->
+        <TextBlock TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding Meaning}" Height="240" Width="240" HorizontalAlignment="Left" Margin="10,50,0,0"   />
+        <Slider  Width="150" HorizontalAlignment="Center" VerticalAlignment="Bottom" Value="{Binding Speed}"  Minimum="1" Maximum="50" Height="25" />
+
+        
+    </Grid>
+</Page>

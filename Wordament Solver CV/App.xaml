@@ -1,0 +1,11 @@
+﻿<Application x:Class="Wordament_Solver_CV.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:cv="clr-namespace:Wordament_Solver_CV"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <cv:TileStringConvertors x:Key="TileStringConvertors"/>
+        <cv:testBinding x:Key="testBinding"/>
+        <cv:stringToDoc x:Key="stringToDoc"/>
+    </Application.Resources>
+</Application>

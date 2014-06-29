@@ -1,0 +1,13 @@
+﻿<Window x:Class="Wordament_Solver_CV.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       Height="370" Width="525" Title="Wordament Solver CV"
+        Icon="black_cat.ico"
+        >
+
+    <StackPanel>
+        <Frame NavigationUIVisibility="Hidden" x:Name="rootFrame">
+        </Frame>
+    </StackPanel>
+</Window>
+    

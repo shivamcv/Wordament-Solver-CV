@@ -1,0 +1,68 @@
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Wordament Solver CV.exe.config
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\x64\liblept168.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\x64\libtesseract302.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\x86\liblept168.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\x86\libtesseract302.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Wordament Solver CV.exe
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Wordament Solver CV.pdb
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Newtonsoft.Json.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Tesseract.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Newtonsoft.Json.xml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Tesseract.xml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\View\InitialisingScreen.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\MainWindow.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\preview.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\View\GameScreen.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\View\InitialisingScreen.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\MainWindow.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\preview.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\App.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV_Content.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV_MarkupCompile.cache
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV_MarkupCompile.lref
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\App.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\View\GameScreen.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV.g.resources
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament_Solver_CV.Properties.Resources.resources
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV.csproj.GenerateResource.Cache
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV.exe
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV.pdb
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Wordament Solver CV.exe.manifest
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\bin\Release\Wordament Solver CV.application
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV.exe.manifest
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament Solver CV\obj\Release\Wordament Solver CV.application
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Wordament Solver CV.exe.config
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\x64\liblept168.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\x64\libtesseract302.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\x86\liblept168.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\x86\libtesseract302.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Wordament Solver CV.exe.manifest
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Wordament Solver CV.application
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Wordament Solver CV.exe
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Wordament Solver CV.pdb
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Newtonsoft.Json.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Tesseract.dll
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\bin\Release\Tesseract.xml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.csprojResolveAssemblyReference.cache
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\View\InitialisingScreen.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\MainWindow.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\preview.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\View\GameScreen.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\View\InitialisingScreen.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\MainWindow.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\preview.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\App.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV_Content.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV_MarkupCompile.cache
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV_MarkupCompile.lref
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\App.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\View\GameScreen.baml
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.g.resources
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament_Solver_CV.Properties.Resources.resources
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.csproj.GenerateResource.Cache
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.exe.manifest
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.application
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.exe
+C:\Users\SHIVAM\Documents\Visual Studio 2012\Projects\Wordament Solver CV\Wordament-Solver-CV\Wordament Solver CV\obj\Release\Wordament Solver CV.pdb
